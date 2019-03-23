@@ -1,0 +1,11 @@
+C:\Users\Denis\source\repos\SortTesting\SortTesting\bin\Debug\SortTesting.exe.config
+C:\Users\Denis\source\repos\SortTesting\SortTesting\bin\Debug\SortTesting.exe
+C:\Users\Denis\source\repos\SortTesting\SortTesting\bin\Debug\SortTesting.pdb
+C:\Users\Denis\source\repos\SortTesting\SortTesting\bin\Debug\nunit.framework.dll
+C:\Users\Denis\source\repos\SortTesting\SortTesting\bin\Debug\nunit.framework.pdb
+C:\Users\Denis\source\repos\SortTesting\SortTesting\bin\Debug\nunit.framework.xml
+C:\Users\Denis\source\repos\SortTesting\SortTesting\obj\Debug\SortTesting.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\SortTesting\SortTesting\obj\Debug\SortTesting.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\SortTesting\SortTesting\obj\Debug\SortTesting.csproj.CopyComplete
+C:\Users\Denis\source\repos\SortTesting\SortTesting\obj\Debug\SortTesting.exe
+C:\Users\Denis\source\repos\SortTesting\SortTesting\obj\Debug\SortTesting.pdb
